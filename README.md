@@ -3,7 +3,6 @@
     <a href="https://stockstream.vercel.app/" target="_blank">
       <img src="public/readme/banner.jpg" alt="Project Banner">
     </a>
-    - **[Live demo](https://stockstream.vercel.app/)**
   <br />
 
   <div>
@@ -25,7 +24,7 @@
   <img src="public/readme/s2.png" alt="Screenshot 2">
 
 </div>
-
+**[Live demo](https://stockstream.vercel.app/)**
 ## 📋 <a name="table">Table of Contents</a>
 
 1. ✨ [Introduction](#introduction)
